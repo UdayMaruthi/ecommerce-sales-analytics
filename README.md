@@ -1,15 +1,15 @@
 # 📊 E-Commerce Sales Analytics
 
 ## 📌 Project Overview
-This project analyzes 100,000+ e-commerce transactions to generate actionable business insights related to sales, customers, and product performance.
+Analyzed 100,000+ e-commerce transactions to uncover revenue trends, customer behavior, and product performance insights. This project demonstrates end-to-end data analysis using SQL and Power BI.
 
 ---
 
-## 🎯 Objectives
-- Analyze revenue trends over time
-- Identify top-selling products
-- Segment customers based on behavior
-- Understand payment preferences
+## 🎯 Business Objectives
+- Identify revenue trends over time  
+- Discover top-performing products  
+- Segment customers based on purchasing behavior  
+- Analyze payment method preferences  
 
 ---
 
@@ -20,35 +20,36 @@ This project analyzes 100,000+ e-commerce transactions to generate actionable bu
 
 ---
 
-## 📂 Project Structure
-- /data → Dataset used
-- /sql → SQL queries
-- /dashboard → Power BI file
-- /images → Dashboard screenshots
-
----
-
 ## 📊 Key Insights
-- Identified high-revenue product categories
-- Found peak sales periods
-- Analyzed customer purchasing patterns
+- High-revenue generated from specific product categories  
+- Peak sales observed during seasonal periods  
+- Majority transactions completed via digital payment methods  
+- Identified high-value customer segments  
 
 ---
 
-## 📸 Dashboard Preview
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/dashboard-overview.png)
 
-
 ---
 
-## 🚀 How to Use
-1. Run SQL queries to explore data
-2. Open Power BI file to view dashboard
+## 🧾 SQL Analysis
+
+- `data_overview.sql` → Data exploration and cleaning  
+- `kpi_queries.sql` → KPI generation and business insights  
+
+📂 All queries available in the `/sql` folder.
 
 ---
 
 ## 📎 Project Links
-- 🔗 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDVhOTM5YTEtZjI2MC00ZTRmLThkM2UtOWRhZWQ1ZmY1ZGRhIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
-- 📂 [Dataset](https://drive.google.com/file/d/1O0LT_7gNVP1atGxP4W1EUm9Xily6LqcA/view?usp=sharing)
+- 🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDVhOTM5YTEtZjI2MC00ZTRmLThkM2UtOWRhZWQ1ZmY1ZGRhIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
+
+---
+
+## 🚀 Key Skills Demonstrated
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Development  
+- Data Visualization  
