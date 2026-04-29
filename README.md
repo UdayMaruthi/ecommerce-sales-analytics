@@ -36,6 +36,9 @@ This project analyzes 100,000+ e-commerce transactions to generate actionable bu
 ---
 
 ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard-overview.png)
 
 
 ---
