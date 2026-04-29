@@ -27,7 +27,12 @@ Analyzed 100,000+ e-commerce transactions to uncover revenue trends, customer be
 - Identified high-value customer segments  
 
 ---
-
+## 📈 Business Impact
+- Improved visibility into revenue trends and product performance  
+- Enabled identification of high-value customers  
+- Supported data-driven decision-making through dashboards
+  
+---
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/dashboard-overview.png)
